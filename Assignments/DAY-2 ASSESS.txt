@@ -1,0 +1,12 @@
+
+Map():when you want to apply the same operation to every item to list
+Filter():When you want to select specific items from a list based on a condition
+reduce():When you want to roll a whole list into a single value'
+
+2.memory managemnet and namespace isolation ,scope determines where a variable is visible pr acessible.
+'def my_func():
+secret_message="I am loca;"
+print(secret_message)
+my_func()
+
+print(secret_message)
